@@ -2,7 +2,8 @@
 
 #+BEGIN_QUOTE
 Après moi, le déluge
+
 — Louis XV of France
 #+END_QUOTE
 
-Le Déluge follows the French Revolution and the rise of the First French Republic and Empire.
+Le Déluge is a Victoria 3 which follows the events of the French Revolution and the rise of the First French Republic and Empire.
