@@ -18,110 +18,47 @@ But the age of chivalry is gone. That of sophisters, economists, and calculators
 To what extent should the beginning of the game be railroaded?
 Will the player be able to avert the fall of the monarchy?
 
-* Historical overview
+* Simplification of the situation
+Monarchists (Absolute Monarchy)
+Orléanist (Constitutional Monarchy)
+Girondins (Liberals & Republicans)
+Montagnards, [[file:../../../org/roam/20210605150336-enrages.org][Enragés]], [[file:../../../org/roam/20210603205740-sans_culottes.org][Sans-culottes]] (Dirigists & Radicals)
 
-The [[file:../../../org/roam/20210603202931-parlement_of_paris.org][Parlement of Paris]] refuses to reform the tax system or loan the Crown more money
-[[file:../../../org/roam/20210603203106-jacques_necker.org][Jacques Necker]]
+* Coalition Wars
+Crises are used to model the Coalition Wars
+We need some way to stop France from achieving too much across the span of these wars.
+France should be pushed towards the installation of puppet governments.
 
-#+BEGIN_QUOTE
-What is the Third Estate?" he writes; "What is the Third Estate? Everything. What has it been until now in the political order? Nothing. What does it demand to be? Something.
+* Characters
 
-— Emmanuel Joseph Sieyès
-#+END_QUOTE
+** Leaders
+[[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
 
-Elections for delegates to the Estates-General
+[[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
 
-#+BEGIN_QUOTE
-Since bread was the foundation of our national economy its distribution should be deregulated, permitting lower prices. That in turn would allow lower wage costs, lower manufacturing prices and brisk consumption.
+** Interest groups
 
-— Jean-Baptiste Réveillon, [[file:../../../org/roam/20210603203709-reveillon_riots.org][Réveillon riots]]
-#+END_QUOTE
+*** Aristocrats
 
-5th May 1789: [[file:../../../org/roam/20210603201705-estates_general_of_1789.org][Estates General of 1789]]
-[[file:../../../org/roam/20210603204111-jean_sylvain_bailly.org][Jean Sylvain Bailly]]
-[[file:../../../org/roam/20210603204349-national_assembly_french_revolution.org][National Assembly (French Revolution)]]
-[[file:../../../org/roam/20210603204401-tennis_court_oath.org][Tennis Court Oath]]
-[[file:../../../org/roam/20210603204910-national_constituent_assembly_france.org][National Constituent Assembly (France)]]
-Necker is dismissed
-[[file:../../../org/roam/20210603201859-storming_of_the_bastille.org][Storming of the Bastille]]
-[[file:../../../org/roam/20210603222133-paris_commune_1789_1795.org][Paris Commune (1789–1795)]]
-[[file:../../../org/roam/20210603205153-gilbert_du_motier_marquis_de_lafayette.org][Gilbert du Motier, Marquis de Lafayette]] is appointed Commander of the [[file:../../../org/roam/20210409211743-national_guard_france.org][National Guard (France)]] 
-Noble émigrés begin to leave France
-[[file:../../../org/roam/20210603205645-girondins.org][Girondins]]
-Abolishment of the privileges of the nobility
-[[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]] and the [[file:../../../org/roam/20210603205740-sans_culottes.org][Sans-culottes]]
-Freedom of religious opinions
-Freedom of speech
-[[file:../../../org/roam/20210603205912-declaration_of_the_rights_of_man_and_of_the_citizen.org][Declaration of the Rights of Man and of the Citizen]]
-[[file:../../../org/roam/20210603210453-women_s_march_on_versailles.org][Women's March on Versailles]]
-King and Assembly move to Paris
-King of France → King of the French
-[[file:../../../org/roam/20210603210635-guillotine.org][Guillotine]]
-The Count of Artois requests that [[file:../../../org/roam/20210603210805-joseph_ii_holy_roman_emperor.org][Joseph II, Holy Roman Emperor]] intervene militarily
-Nationalisation of Church property
-[[file:../../../org/roam/20210421123747-jacobin.org][Jacobin]]
-Protestants are eligible to hold public office, Jews still excluded
-The Assembly abolishes the requirement that officers be members of the nobility
-[[file:../../../org/roam/20210603211436-pope_pius_vi.org][Pope Pius VI]] condemns the [[file:../../../org/roam/20210603205912-declaration_of_the_rights_of_man_and_of_the_citizen.org][Declaration of the Rights of Man and of the Citizen]] 
-Pro-Catholic riots
-[[file:../../../org/roam/20210603211557-cordeliers.org][Cordeliers]]
-[[file:../../../org/roam/20210603211659-patriotic_society_of_1789.org][Patriotic Society of 1789]]
-Avignon asks to be joined to France
-[[file:../../../org/roam/20210603212133-fete_de_la_federation.org][Fête de la Fédération]], the last event to unite all the different factions in Paris during the Revolution.
-The Assembly refuses military access to Austria, who wish to supress an uprising in Belgium.
-The Assembly decides to take legal action against those calling for revolutionary violence.
-[[file:../../../org/roam/20210603212712-justice_of_the_peace.org][Justice of the peace]]
-Necker is dismissed
-Mutiny at Brest
-Adoption of the Tricolor
-Insurrections in Isle de France (Mauritius) and Saint-Domingue (Haiti)
-Louis XVI asks [[file:../../../org/roam/20210603213222-frederick_william_ii_king_of_prussia.org][Frederick William II, King of Prussia]] to intervene
-Constitutional bishops
-[[file:../../../org/roam/20210603213420-day_of_daggers.org][Day of Daggers]]
-Abolition of trade guilds
-Church silver is melted down and sold
-The church of Sainte Geneviève is proposed to become the [[file:../../../org/roam/20210603214035-pantheon.org][Panthéon]]
-[[file:../../../org/roam/20210603214400-le_chapelier_law_1791.org][Le Chapelier Law 1791]]
-[[file:../../../org/roam/20210603214500-flight_to_varennes.org][Flight to Varennes]]
-[[file:../../../org/roam/20210603214540-padua_circular.org][Padua Circular]]
-[[file:../../../org/roam/20210524152815-declaration_of_pillnitz.org][Declaration of Pillnitz]]
-[[file:../../../org/roam/20210603214841-french_constitution_of_1791.org][French Constitution of 1791]]
-French Jews are granted citizenship
-Membership in the National Guard is limited to those who pay a certain amount of taxes
-Amnesty is granted to those who engaged in illegal political activity since 1788.
-[[file:../../../org/roam/20210603215228-jean_baptiste_donatien_de_vimeur_comte_de_rochambeau.org][Jean-Baptiste Donatien de Vimeur, comte de Rochambeau]]
-[[file:../../../org/roam/20210603215237-nicolas_luckner.org][Nicolas Luckner]]
-[[file:../../../org/roam/20210603215514-national_legislative_assembly_france.org][National Legislative Assembly (France)]]
-[[file:../../../org/roam/20210603215531-claude_emmanuel_de_pastoret.org][Claude-Emmanuel de Pastoret]]
-[[file:../../../org/roam/20210603215834-haitian_revolution.org][Haitian Revolution]]
-[[file:../../../org/roam/20210603215953-biens_nationaux.org][Biens nationaux]]
-[[file:../../../org/roam/20210603220048-college_of_sorbonne.org][College of Sorbonne]]
-The Assembly declares war on [[file:../../../org/roam/20210603220158-francis_ii_holy_roman_emperor.org][Francis II, Holy Roman Emperor]]
-[[file:../../../org/roam/20201203110203-war_of_the_first_coalition.org][War of the First Coalition]]
-[[file:../../../org/roam/20210603220233-la_marseillaise.org][La Marseillaise]]
-[[file:../../../org/roam/20210603221335-regiment_royal_alleman_cavalerie.org][Régiment Royal–Alleman Cavalerie]] defects to the coalition.
-Louis XVI wears a Phrygian cap and drinks to the nation
-[[file:../../../org/roam/20210603221814-brunswick_manifesto.org][Brunswick Manifesto]]
-Membership of the National Guard is widened to include those who pay no taxes
-[[file:../../../org/roam/20210603222022-insurrection_of_the_10th_august_1792.org][Insurrection of the 10th August 1792]]
-[[file:../../../org/roam/20210603222302-revolutionary_tribunal.org][Revolutionary Tribunal]]
-[[file:../../../org/roam/20210603222319-national_convention.org][National Convention]]
-Lafayette leaves and goes into exile
-[[file:../../../org/roam/20210603222423-september_massacres.org][September Massacres]]
-[[file:../../../org/roam/20210331080720-louvre.org][Louvre]]
-22nd September: the Convention proclaims the abolition of the royalty and the [[file:../../../org/roam/20210209205411-french_first_republic.org][French First Republic]] 
-The Convention proclaims the right to intervene in any country 'where people desire to recover their freedom'
-[[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]] demands that the king be put to death
-The Convention recognises the independence of Belgium
-[[file:../../../org/roam/20210603222756-trial_of_louis_xvi.org][Trial of Louis XVI]]
-#+BEGIN_QUOTE
-Louis must die so that the nation may live. — Robespierre
-#+END_QUOTE
-[[file:../../../org/roam/20210603202429-execution_of_louis_xvi.org][Execution of Louis XVI]]
-[[file:../../../org/roam/20210603202220-reign_of_terror.org][Reign of Terror]]
-The Convention declares war against the [[file:../../../org/roam/20201015223301-kingdom_of_great_britain.org][Kingdom of Great Britain]] and the [[file:../../../org/roam/20210218203325-dutch_republic.org][Dutch Republic]] 
-[[file:../../../org/roam/20201015190343-monaco.org][Monaco]] is annexed
-Belgium is annexed
+*** Capitalists
+
+*** Clergy
+[[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
+
+*** Military
+[[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
+
+*** Labour unions
+[[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
+
+[[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
+
+** Generals
+[[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
+
+[[file:../../../org/roam/20210605200546-francois_christophe_de_kellermann.org][François Christophe de Kellermann]]
+
+** Admirals
 
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
