@@ -9,7 +9,7 @@ Après moi, le déluge.
 — Louis XV of France
 #+END_QUOTE
 
-Le Déluge is a Victoria 3 which follows the events of the French Revolution and the rise of the First French Republic and Empire; it starts in 1786, with the events of the French Revolution just around the corner. France is both the most powerful country in the world, and yet unable to raise taxes and on the verge of bankruptcy.
+Le Déluge is a Victoria 3 mod which follows the events of the French Revolution and the rise of the First French Republic and Empire; it starts in 1786, fifty years before Vic 3's standard bookmark and with the events of the Revolution just around the corner. France is both the most powerful country in the world, and yet unable to raise taxes and on the verge of bankruptcy.
 
 The mod allows one to follow the course of history, or try and solve France's problems another way. If one chooses the historical action, one if guaranteed to have the Napoleonic Wars ensue.
 
@@ -27,6 +27,9 @@ https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 - Orléanists (Constitutional Monarchists)
 - Thermidorians, Cordeliers (Liberals)
 - Enragés, Sans-culottes (Dirigists)
+
+* Coalition Wars
+Crises are used to model the Coalition Wars. The taking of states is prohibitively expensive, so France is best placed to install puppet governments. Establishing control over Europe will require France to succeed in several wars.
 
 * Events and decisions
 
@@ -123,83 +126,72 @@ Separatism in Brazil
 **** Russo–Swedish War (1788–1790)
 **** Zulu Kingdom
 
-* Coalition Wars
-Crises are used to model the Coalition Wars.
-
-We need some way to stop France from achieving too much across the span of these wars.
-
-France should be pushed towards the installation of puppet governments.
-
-France is granted free CBs? But cannot take much or anything else?
-
 * Characters
 ** Leaders
-[[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
-
-[[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
+- [[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
+- [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
+- Robespierre
+- [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
 
 ** Interest groups
+
+*** Clergy, First Estate
+- [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
 
 *** Aristocrats, Second Estate
 
 *** Capitalists
-
-*** Clergy, First Estate
-[[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
+- [[file:../../../org/roam/20210606233111-jean_baptiste_reveillon.org][Jean-Baptiste Réveillon]]
 
 *** Military
-[[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
+- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
 
 *** Labour unions, Third Estate
-[[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
-
-[[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
+- [[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
+- [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
 
 ** Generals
-[[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
-
-[[file:../../../org/roam/20210605200546-francois_christophe_de_kellermann.org][François Christophe de Kellermann]]
-
-[[file:../../../org/roam/20210606163613-joachim_murat.org][Joachim Murat]]
+- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
+- [[file:../../../org/roam/20210605200546-francois_christophe_de_kellermann.org][François Christophe de Kellermann]]
+- [[file:../../../org/roam/20210606163613-joachim_murat.org][Joachim Murat]]
 
 ** Admirals
-[[file:../../../org/roam/20210606163431-charles_henri_hector_d_estaing.org][Charles Henri Hector d'Estaing]]
-
-[[file:../../../org/roam/20210606163904-pierre_andre_de_suffren.org][Pierre André de Suffren]]
+- [[file:../../../org/roam/20210606163431-charles_henri_hector_d_estaing.org][Charles Henri Hector d'Estaing]]
+- [[file:../../../org/roam/20210606163904-pierre_andre_de_suffren.org][Pierre André de Suffren]]
 
 * Technology
 
 ** Scientific discoveries
-*** Linnaeus classification
-*** Capacitor
-*** Oxygen
-*** Uranus
-*** Ideal gas
-*** Smallpox vaccination
-*** Aluminium
-*** Conservation of mass
-*** General anæsthesia
-*** Battery
-*** Electromagnetism
-*** Concrete
-*** Group theory
-*** Non-Euclidean geometry
+- Linnaeus classification
+- Capacitor
+- Oxygen
+- Uranus
+- Ideal gas
+- Smallpox vaccination
+- Aluminium
+- Conservation of mass
+- General anæsthesia
+- Battery
+- Electromagnetism
+- Concrete
+- Group theory
+- Non-Euclidean geometry
 
 ** Inventions
-*** Steamboat
-*** Electrolysis
-*** Threshing machine
-*** Power loom
-*** Sewing machine
-*** Telegraph
-*** Cotton gin
-*** Hydraulic press
-*** Air compressor
+- Steamboat
+- Electrolysis
+- Threshing machine
+- Power loom
+- Sewing machine
+- Telegraph
+- Cotton gin
+- Hydraulic press
+- Air compressor
 
 ** Culture
-*** Scientific Revolution
-*** Deism
-*** The Social Contract
+- Scientific Revolution
+- Deism
+- The Social Contract
 
 * Questions
 Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available.
