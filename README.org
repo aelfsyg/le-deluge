@@ -60,5 +60,9 @@ France should be pushed towards the installation of puppet governments.
 
 ** Admirals
 
+* Events and decisions
+France starts with very low tax efficiency, and middling militancy.
+Our first event gives us the choice to host the Estates-General, not doing so will prevent us from resolving the financial situation. Doing so will necessarily upset someone.
+
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
