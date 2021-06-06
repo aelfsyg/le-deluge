@@ -20,13 +20,18 @@ Will the player be able to avert the fall of the monarchy?
 
 * Simplification of the situation
 Monarchists (Absolute Monarchy)
+
 Orléanist (Constitutional Monarchy)
+
 Girondins (Liberals & Republicans)
+
 Montagnards, [[file:../../../org/roam/20210605150336-enrages.org][Enragés]], [[file:../../../org/roam/20210603205740-sans_culottes.org][Sans-culottes]] (Dirigists & Radicals)
 
 * Coalition Wars
 Crises are used to model the Coalition Wars
+
 We need some way to stop France from achieving too much across the span of these wars.
+
 France should be pushed towards the installation of puppet governments.
 
 * Characters
