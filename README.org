@@ -1,55 +1,39 @@
 #+title: Le Déluge
 
+#+attr_org: :width 400px
+[[./img/crossing-the-alps.jpg]]
+
 #+BEGIN_QUOTE
 Après moi, le déluge.
 
 — Louis XV of France
 #+END_QUOTE
 
-Le Déluge is a Victoria 3 which follows the events of the French Revolution and the rise of the First French Republic and Empire.
+Le Déluge is a Victoria 3 which follows the events of the French Revolution and the rise of the First French Republic and Empire; it starts in 1786, with the events of the French Revolution just around the corner. France is both the most powerful country in the world, and yet unable to raise taxes and on the verge of bankruptcy.
 
-#+BEGIN_QUOTE
-But the age of chivalry is gone. That of sophisters, economists, and calculators, has succeeded; and the glory of Europe is extinguished for ever.
-
-— Edmud Burke
-#+END_QUOTE
-
-* Philosophy
-We start in 1788
-
-To what extent should the beginning of the game be railroaded?
-
-Will the player be able to avert the fall of the monarchy?
-
-If one chooses the historical action, one if guaranteed to have the Napoleonic Wars ensue.
+The mod allows one to follow the course of history, or try and solve France's problems another way. If one chooses the historical action, one if guaranteed to have the Napoleonic Wars ensue.
 
 * Political groups
 https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 
 ** Early, pre-Revolution
-Royalists (Absolute Monarchy)
-
-Feuillants (Constitutional Monarchy)
-
-Girondins (Liberals & Republicans)
-
-Montagnards (Radicals)
+- Royalists (Absolute Monarchists)
+- Feuillants (Constitutional Monarchists)
+- Girondins (Liberals)
+- Montagnards (Radicals)
 
 ** Late, post-Revolution
-Bourbonists
-
-Orléanists
-
-Thermidorians, Cordeliers
-
-Enragés, Sans-culottes (Dirigism)
+- Bourbonists (Absolute Monarchists)
+- Orléanists (Constitutional Monarchists)
+- Thermidorians, Cordeliers (Liberals)
+- Enragés, Sans-culottes (Dirigists)
 
 * Events and decisions
-France starts with very low tax efficiency, and middling militancy.
-
-Will we halt interest repayments?
 
 ** The French Revolution
+
+*** Debt repayments
+Will France honour its debts?
 
 *** Estates-General
 - First Estate :: clergy
@@ -79,13 +63,16 @@ Third Treaty of San Ildefonso. Spain trades Spanish Louisiana for territories in
 1803, $15M. An investment like this can make a huge difference to a country in dire straits. Especially when they will be unable to gain naval dominance.
 
 *** The Low Countries
+Batavian Republic
+
 *** The First French Empire
+Proclaim the First French Empire.
 
 ** Spanish American wars of independence
 
 ** Partitions of Poland
 
-** End of the Slave Trade
+** Abolitionism
 [[file:../../../org/roam/20210606165530-slave_trade_act_1807.org][Slave Trade Act 1807]]
 
 ** Revolutions of 1820
@@ -214,8 +201,20 @@ France is granted free CBs? But cannot take much or anything else?
 *** Deism
 *** The Social Contract
 
+* Questions
+Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available.
+
+* Quotations
+#+BEGIN_QUOTE
+But the age of chivalry is gone. That of sophisters, economists, and calculators, has succeeded; and the glory of Europe is extinguished for ever.
+
+— Edmud Burke
+#+END_QUOTE
+
+
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
 
 #+attr_org: :width 800px
 [[./img/2izmm1ao9o931.png]]
+
