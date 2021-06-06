@@ -15,27 +15,137 @@ But the age of chivalry is gone. That of sophisters, economists, and calculators
 #+END_QUOTE
 
 * Philosophy
+We start in 1788
+
 To what extent should the beginning of the game be railroaded?
+
 Will the player be able to avert the fall of the monarchy?
 
-* Simplification of the situation
-Monarchists (Absolute Monarchy)
+If one chooses the historical action, one if guaranteed to have the Napoleonic Wars ensue.
 
-Orléanist (Constitutional Monarchy)
+* Political groups
+https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
+
+** Early, pre-Revolution
+Royalists (Absolute Monarchy)
+
+Feuillants (Constitutional Monarchy)
 
 Girondins (Liberals & Republicans)
 
-Montagnards, [[file:../../../org/roam/20210605150336-enrages.org][Enragés]], [[file:../../../org/roam/20210603205740-sans_culottes.org][Sans-culottes]] (Dirigists & Radicals)
+Montagnards (Radicals)
+
+** Late, post-Revolution
+Bourbonists
+
+Orléanists
+
+Thermidorians, Cordeliers
+
+Enragés, Sans-culottes (Dirigism)
+
+* Events and decisions
+France starts with very low tax efficiency, and middling militancy.
+
+Will we halt interest repayments?
+
+** The French Revolution
+
+*** Estates-General
+- First Estate :: clergy
+- Second Estate :: nobility
+- Third Estate :: commoners
+
+The first event France receives allows one to choose whether to assemble the Estates-General. This will allow one to attempt to reform France's terrible financial situation, at the risk that the Third Estate will achieve more that just this. The player can refuse this, in which case reform must be hard won through the use of personal Authority.
+
+One must then decide on the composition of the Estates-General. Traditionally, each Estate was granted an equal share of the votes, but this will upset the Third Estate who see themselves in opposition to the conservative First and Second Estates.
+
+If the demands of the Third Estate are not acquiesced to, they will form their own Assembly, and issue their own rulings. They will be hard to ignore. If one chooses to recognise the Assembly, their demands will be more radical than if they had been listened to from the beginning.
+
+Alternatively, one can ally oneself with the Third Estate to tax the incredibly rich nobility, but doing so will make enemies of those who are the monarchy's only supporters, and rid the nation of its few remaining Loyalists.
+
+Eventually there will be a vote, the representatives of which will determine France's future.
+
+*** Émigres
+Aristocrats, Capitalists, Generals, and Admirals will flee if the Revolution succeeds.
+
+The loss of many generals will be compensated by the rise of young men who had previously gone unnoticed.
+
+The loss of skilled men leaves the navy in disarray. Allies will be necessary if France is ever to compete on the high seas.
+
+*** Louisiana Purchase
+Third Treaty of San Ildefonso. Spain trades Spanish Louisiana for territories in Tuscany. France sells Louisiana to the United States.
+
+1803, $15M. An investment like this can make a huge difference to a country in dire straits. Especially when they will be unable to gain naval dominance.
+
+*** The Low Countries
+*** The First French Empire
+
+** Spanish American wars of independence
+
+** Partitions of Poland
+
+** End of the Slave Trade
+[[file:../../../org/roam/20210606165530-slave_trade_act_1807.org][Slave Trade Act 1807]]
+
+** Revolutions of 1820
+*** Decembrist revolt
+
+** Greek War of Independence
+
+** Smaller events
+
+*** France
+**** Haitian Revolution
+
+*** UK
+**** Acts of Union 1800
+**** Nookta Crisis
+**** Canal Mania
+**** Canada Act
+**** Dutch Ceylon
+**** Irish Rebellion
+**** [[file:../../../org/roam/20210606165830-assassination_of_spencer_perceval.org][Assassination of Spencer Perceval]] 
+**** Peterloo Massacre
+**** George III and the Regency
+
+*** USA
+**** George Washington is elected
+**** War of 1812
+**** Pickney's Treaty
+**** Liberia
+
+*** Russia
+**** Caucasian War
+
+*** Portugal
+**** Inconfidência Mineira
+Separatism in Brazil
+
+*** Belgium
+**** Belgian independence
+**** Liege revolution
+
+*** Dutch Republic
+**** Collapse of the Dutch East India Company
+
+*** China
+**** White Lotus Rebellion
+
+*** Other
+**** Russo–Swedish War (1788–1790)
+**** Zulu Kingdom
 
 * Coalition Wars
-Crises are used to model the Coalition Wars
+Crises are used to model the Coalition Wars.
 
 We need some way to stop France from achieving too much across the span of these wars.
 
 France should be pushed towards the installation of puppet governments.
 
-* Characters
+France is granted free CBs? But cannot take much or anything else?
 
+* Characters
 ** Leaders
 [[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
 
@@ -43,17 +153,17 @@ France should be pushed towards the installation of puppet governments.
 
 ** Interest groups
 
-*** Aristocrats
+*** Aristocrats, Second Estate
 
 *** Capitalists
 
-*** Clergy
+*** Clergy, First Estate
 [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
 
 *** Military
 [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
 
-*** Labour unions
+*** Labour unions, Third Estate
 [[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
 
 [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
@@ -63,11 +173,49 @@ France should be pushed towards the installation of puppet governments.
 
 [[file:../../../org/roam/20210605200546-francois_christophe_de_kellermann.org][François Christophe de Kellermann]]
 
-** Admirals
+[[file:../../../org/roam/20210606163613-joachim_murat.org][Joachim Murat]]
 
-* Events and decisions
-France starts with very low tax efficiency, and middling militancy.
-Our first event gives us the choice to host the Estates-General, not doing so will prevent us from resolving the financial situation. Doing so will necessarily upset someone.
+** Admirals
+[[file:../../../org/roam/20210606163431-charles_henri_hector_d_estaing.org][Charles Henri Hector d'Estaing]]
+
+[[file:../../../org/roam/20210606163904-pierre_andre_de_suffren.org][Pierre André de Suffren]]
+
+* Technology
+
+** Scientific discoveries
+*** Linnaeus classification
+*** Capacitor
+*** Oxygen
+*** Uranus
+*** Ideal gas
+*** Smallpox vaccination
+*** Aluminium
+*** Conservation of mass
+*** General anæsthesia
+*** Battery
+*** Electromagnetism
+*** Concrete
+*** Group theory
+*** Non-Euclidean geometry
+
+** Inventions
+*** Steamboat
+*** Electrolysis
+*** Threshing machine
+*** Power loom
+*** Sewing machine
+*** Telegraph
+*** Cotton gin
+*** Hydraulic press
+*** Air compressor
+
+** Culture
+*** Scientific Revolution
+*** Deism
+*** The Social Contract
 
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
+
+#+attr_org: :width 800px
+[[./img/2izmm1ao9o931.png]]
