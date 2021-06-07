@@ -1,3 +1,102 @@
+* Events and decisions
+
+** The French Revolution
+
+*** Debt repayments
+Will France honour its debts?
+
+Brienne or Necker?
+
+*** Estates-General
+- First Estate :: clergy
+- Second Estate :: nobility
+- Third Estate :: commoners
+
+The first event France receives allows one to choose whether to assemble the Estates-General. This will allow one to attempt to reform France's terrible financial situation, at the risk that the Third Estate will achieve more that just this. The player can refuse this, in which case reform must be hard won through the use of personal Authority.
+
+One must then decide on the composition of the Estates-General. Traditionally, each Estate was granted an equal share of the votes, but this will upset the Third Estate who see themselves in opposition to the conservative First and Second Estates.
+
+If the demands of the Third Estate are not acquiesced to, they will form their own Assembly, and issue their own rulings. They will be hard to ignore. If one chooses to recognise the Assembly, their demands will be more radical than if they had been listened to from the beginning.
+
+Alternatively, one can ally oneself with the Third Estate to tax the incredibly rich nobility, but doing so will make enemies of those who are the monarchy's only supporters, and rid the nation of its few remaining Loyalists.
+
+Eventually there will be a vote, the representatives of which will determine France's future.
+
+*** Émigres
+Aristocrats, Capitalists, Generals, and Admirals will flee if the Revolution succeeds.
+
+The loss of many generals will be compensated by the rise of young men who had previously gone unnoticed.
+
+The loss of skilled men leaves the navy in disarray. Allies will be necessary if France is ever to compete on the high seas.
+
+*** Louisiana Purchase
+Third Treaty of San Ildefonso. Spain trades Spanish Louisiana for territories in Tuscany. France sells Louisiana to the United States.
+
+1803, $15M. An investment like this can make a huge difference to a country in dire straits. Especially when they will be unable to gain naval dominance.
+
+*** The Low Countries
+Batavian Republic
+
+*** The First French Empire
+Proclaim the First French Empire.
+
+*** Congress of Vienna
+Union between Sweden and Norway
+
+** Spanish American wars of independence
+
+** Partitions of Poland
+
+** Abolitionism
+[[file:../../../org/roam/20210606165530-slave_trade_act_1807.org][Slave Trade Act 1807]]
+
+** Revolutions of 1820
+*** Decembrist revolt
+
+** Greek War of Independence
+
+** Smaller events
+
+*** France
+**** Haitian Revolution
+
+*** UK
+**** Acts of Union 1800
+**** Nookta Crisis
+**** Canal Mania
+**** Canada Act
+**** Dutch Ceylon
+**** Irish Rebellion
+**** [[file:../../../org/roam/20210606165830-assassination_of_spencer_perceval.org][Assassination of Spencer Perceval]] 
+**** Peterloo Massacre
+**** George III and the Regency
+
+*** USA
+**** George Washington is elected
+**** War of 1812
+**** Pickney's Treaty
+**** Liberia
+
+*** Russia
+**** Caucasian War
+
+*** Portugal
+**** Inconfidência Mineira
+Separatism in Brazil
+
+*** Belgium
+**** Belgian independence
+**** Liege revolution
+
+*** Dutch Republic
+**** Collapse of the Dutch East India Company
+
+*** China
+**** White Lotus Rebellion
+
+*** Other
+**** Russo–Swedish War (1788–1790)
+**** Zulu Kingdom
 * Timeline
 
 The [[file:../../../org/roam/20210603202931-parlement_of_paris.org][Parlement of Paris]] refuses to reform the tax system or loan the Crown more money
@@ -210,5 +309,6 @@ Abolition of slavery
 #+BEGIN_QUOTE
 The foundations of a popular government in a revolution are virtue and terror; terror without virtue is disastrous; and virtue without terror is powerless. The Government of the Revolution is the despotism of liberty over tyranny. — Robespierre
 #+END_QUOTE
+
 
 
