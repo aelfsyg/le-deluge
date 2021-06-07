@@ -13,9 +13,9 @@ Le Déluge is a Victoria 3 mod which follows the events of the French Revolution
 
 France is both the most powerful country in the world, and yet unable to raise taxes and on the verge of bankruptcy. To fix France's financial problems, we can call together the Estates-General for the first time in 170 years; hopefully, the clergy, nobility, and commoners will be able to put aside their differences or else we risk the downfall of Europe's greatest monarchy.
 
-The mod allows one to follow the course of history, or try and solve France's problems another way. If one chooses the historical action, one if guaranteed to have the Napoleonic Wars ensue.
+The mod allows one to follow the course of history, or try and solve France's problems another way. If one chooses the historical action, one is guaranteed to have the Napoleonic Wars ensue.
 
-If Europe can survive the Déluge: Spain will face a wave of independence amongst her colonies, the Polish–Lithuanian Commonwealth will have to try and outmanouveur her three unfriendly neighbours, and the UK must either abolish slavery or deal with unrest amongst her populace.
+If Europe can survive the Déluge: Spain will face a wave of independence amongst her colonies, the Polish–Lithuanian Commonwealth will have to try and outmanoeuvre her three unfriendly neighbours, and the UK must either abolish slavery or deal with unrest amongst her populace.
 
 * Political groups
 https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
@@ -109,7 +109,7 @@ Should all the countries use the same tags that they will use in the rest of the
 #+BEGIN_QUOTE
 But the age of chivalry is gone. That of sophisters, economists, and calculators, has succeeded; and the glory of Europe is extinguished for ever.
 
-— Edmud Burke
+— Edmund Burke
 #+END_QUOTE
 
 #+BEGIN_QUOTE
@@ -119,7 +119,7 @@ Peoples do not judge in the same way as courts of law; they do not hand down sen
 #+END_QUOTE
 
 * Get involved
-Issues and PRs are very welcome. Even if you are unfamiliar with how to edit code, or use GitHub, you can contact me via Discord.
+Issues and pull requests are very welcome. Even if you are unfamiliar with how to edit code, or use GitHub, you can contact me via Discord.
 
 ** Discord
 Click here → https://discord.gg/9n5tphpKD5
