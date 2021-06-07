@@ -38,6 +38,8 @@ Crises are used to model the Coalition Wars. The taking of states is prohibitive
 *** Debt repayments
 Will France honour its debts?
 
+Brienne or Necker?
+
 *** Estates-General
 - First Estate :: clergy
 - Second Estate :: nobility
@@ -70,6 +72,9 @@ Batavian Republic
 
 *** The First French Empire
 Proclaim the First French Empire.
+
+*** Congress of Vienna
+Union between Sweden and Norway
 
 ** Spanish American wars of independence
 
@@ -203,10 +208,15 @@ But the age of chivalry is gone. That of sophisters, economists, and calculators
 — Edmud Burke
 #+END_QUOTE
 
+#+BEGIN_QUOTE
+Peoples do not judge in the same way as courts of law; they do not hand down sentences, they throw thunderbolts; they do not condemn kings, they drop them back into the void; and this justice is worth just as much as that of the courts.
+
+— Robespierre 
+#+END_QUOTE
 
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
 
-#+attr_org: :width 800px
+#+attr_org: :width 600px
 [[./img/2izmm1ao9o931.png]]
 
