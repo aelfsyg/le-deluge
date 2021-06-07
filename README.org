@@ -214,6 +214,12 @@ Peoples do not judge in the same way as courts of law; they do not hand down sen
 — Robespierre 
 #+END_QUOTE
 
+* Get involved
+Issues and PRs are very welcome. Even if you are unfamiliar with how to edit code, or use GitHub, you can contact me via Discord.
+
+** Discord
+https://discord.gg/9n5tphpKD5
+
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
 
