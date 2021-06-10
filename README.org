@@ -22,8 +22,10 @@ If Europe can survive the Déluge: Spain will face a wave of independence amongs
 - The Spanish American Wars of Independence
 - Partitions of Poland
 - Abolitionism
+- Acts of Union
 - Revolutions of 1820
 - Greek War of Independence
+- July Revolution
 - and many smaller events
 
 * Political groups
@@ -42,14 +44,24 @@ https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 - Enragés, Sans-culottes (Dirigists)
 
 * Coalition Wars
-Crises are used to model the Coalition Wars. The taking of states is prohibitively expensive, so France is best placed to install puppet governments. Establishing control over Europe will require France to succeed in several wars.
+Crises are used to model the Coalition Wars. The taking of states is prohibitively expensive, so France is best placed to install puppet governments. Establishing a new liberal order in Europe will require France to succeed in several wars.
+
+* Continental System
+The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. This will be modelled using Vic 3's market mechanics, a welcome addition as this would be hard to model in Vic 2.
 
 * Characters
 ** Leaders
 - [[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
 - [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
+- [[file:../../../org/roam/20210607171523-georges_danton.org][Georges Danton]] 
 - Robespierre
+- Lazare Carnot
+- Sieyès
 - [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
+- Napoleon II
+- Louis XVIII
+- Charles X
+- Louis Philippe I
 
 ** Interest groups
 
@@ -96,6 +108,9 @@ Crises are used to model the Coalition Wars. The taking of states is prohibitive
 - Non-Euclidean geometry
 
 ** Inventions
+- Metcalf's roads
+- Trésaguet's roads
+- McAdam's roads
 - Steamboat
 - Electrolysis
 - Threshing machine
@@ -105,6 +120,11 @@ Crises are used to model the Coalition Wars. The taking of states is prohibitive
 - Cotton gin
 - Hydraulic press
 - Air compressor
+
+*** Resources
+https://en.wikipedia.org/wiki/History_of_road_transport
+https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
+https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
 
 ** Culture
 - Scientific Revolution
@@ -135,6 +155,9 @@ Click here → https://discord.gg/9n5tphpKD5
 
 * External references
 https://eu4.paradoxwikis.com/French_Revolution
+https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
+https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
+https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_19th_century_(1801%E2%80%931850)
 
 #+attr_org: :width 600px
 [[./img/2izmm1ao9o931.png]]
