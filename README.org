@@ -70,15 +70,19 @@ The Continental System was a embargo by almost the entirety of Europe against th
 
 *** Aristocrats, Second Estate
 
-*** Capitalists
-- [[file:../../../org/roam/20210606233111-jean_baptiste_reveillon.org][Jean-Baptiste Réveillon]]
-
-*** Military
+*** Armed Forces
 - [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
 
-*** Labour unions, Third Estate
+*** Industrialists, Petite Bourgeoisie
+- [[file:../../../org/roam/20210606233111-jean_baptiste_reveillon.org][Jean-Baptiste Réveillon]]
+
+*** Third Estate
+
+**** Trade Unions
 - [[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
 - [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
+
+**** Rural Folk
 
 ** Generals
 - [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
