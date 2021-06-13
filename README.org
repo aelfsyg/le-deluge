@@ -44,7 +44,9 @@ https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 - Enragés, Sans-culottes (Dirigists)
 
 * Coalition Wars
-Crises are used to model the Coalition Wars. The taking of states is prohibitively expensive, so France is best placed to install puppet governments. Establishing a new liberal order in Europe will require France to succeed in several wars.
+The Coalition Wars were a series of seven wars waged by various alliances of great European powers against Revolutionary France. 
+
+Le Déluge uses Crises to model the Coalition Wars. The taking of states other than those on France's border is prohibitively expensive, so France is best placed to install puppet governments, or to pressure governments into alliances and the Continental System. Establishing a new liberal order in Europe will require France to succeed in several wars against all of Europe.
 
 * Continental System
 The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. Representing this is almost impossible in Vic 2, but Vic 3's market mechanics make the Continental System an easy feature to implement.
@@ -52,6 +54,8 @@ The Continental System was a embargo by almost the entirety of Europe against th
 [[./img/Continental_Blockade_(1812).svg]]
 
 Vic 3's variable number of great powers means in a Coalition War the French can make their opponents submit to the French market and embargo the United Kingdom, even large powers, such as Austria and the Russian Empire.
+
+Historically, the failure of countries to enforce the embargo was used by Napoleon as a /casus belli/ for the invasions of the Spanish and Russian Empires, and in Le Déluge countries will be given the opportunity to flout French impositions, but may pay a price for doing so.
 
 * Characters
 ** Leaders
