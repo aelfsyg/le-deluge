@@ -47,7 +47,11 @@ https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 Crises are used to model the Coalition Wars. The taking of states is prohibitively expensive, so France is best placed to install puppet governments. Establishing a new liberal order in Europe will require France to succeed in several wars.
 
 * Continental System
-The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. This will be modelled using Vic 3's market mechanics, a welcome addition as this would be hard to model in Vic 2.
+The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. Representing this is almost impossible in Vic 2, but Vic 3's market mechanics make the Continental System an easy feature to implement.
+
+[[./img/Continental_Blockade_(1812).svg]]
+
+Vic 3's variable number of great powers means in a Coalition War the French can make their opponents submit to the French market and embargo the United Kingdom, even large powers, such as Austria and the Russian Empire.
 
 * Characters
 ** Leaders
