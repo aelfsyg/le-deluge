@@ -51,13 +51,13 @@ The Continental System was a embargo by almost the entirety of Europe against th
 
 * Characters
 ** Leaders
-- [[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
-- [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
-- [[file:../../../org/roam/20210607171523-georges_danton.org][Georges Danton]] 
+- Louis XVI, King of France
+- Louis XVII, King of France
+- Georges Danton
 - Robespierre
 - Lazare Carnot
 - Sieyès
-- [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
+- Napoleon
 - Napoleon II
 - Louis XVIII
 - Charles X
@@ -65,33 +65,29 @@ The Continental System was a embargo by almost the entirety of Europe against th
 
 ** Interest groups
 
-*** Clergy, First Estate
-- [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
+*** First Estate: Clergy
+- Antoine-Éléonor-Léon Leclerc de Juigné
 
-*** Aristocrats, Second Estate
-
-*** Armed Forces
-- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
-
-*** Industrialists, Petite Bourgeoisie
-- [[file:../../../org/roam/20210606233111-jean_baptiste_reveillon.org][Jean-Baptiste Réveillon]]
+*** Second Estate: Aristocrats, Armed Forces
+- Charles François Dumouriez
 
 *** Third Estate
-
+**** Industrialists, Petite Bourgeoisie
+- Jean-Baptiste Réveillo
 **** Trade Unions
-- [[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
-- [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
-
+- Jean-Paul Marat
+- Maximilien Robespierre
+  
 **** Rural Folk
 
 ** Generals
-- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
-- [[file:../../../org/roam/20210605200546-francois_christophe_de_kellermann.org][François Christophe de Kellermann]]
-- [[file:../../../org/roam/20210606163613-joachim_murat.org][Joachim Murat]]
+- Charles François Dumouriez
+- François Christophe de Kellermann
+- Joachim Murat
 
 ** Admirals
-- [[file:../../../org/roam/20210606163431-charles_henri_hector_d_estaing.org][Charles Henri Hector d'Estaing]]
-- [[file:../../../org/roam/20210606163904-pierre_andre_de_suffren.org][Pierre André de Suffren]]
+- Charles Henri Hector d'Estaing
+- Pierre André de Suffren
 
 * Technology
 
@@ -126,9 +122,9 @@ The Continental System was a embargo by almost the entirety of Europe against th
 - Air compressor
 
 *** Resources
-https://en.wikipedia.org/wiki/History_of_road_transport
-https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
-https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
+- https://en.wikipedia.org/wiki/History_of_road_transport
+- https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
+- https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
 
 ** Culture
 - Scientific Revolution
@@ -158,10 +154,10 @@ Issues and pull requests are very welcome. Even if you are unfamiliar with how t
 Click here → https://discord.gg/9n5tphpKD5
 
 * External references
-https://eu4.paradoxwikis.com/French_Revolution
-https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
-https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
-https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_19th_century_(1801%E2%80%931850)
+- https://eu4.paradoxwikis.com/French_Revolution
+- https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
+- https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
+- https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_19th_century_(1801%E2%80%931850)
 
 #+attr_org: :width 600px
 [[./img/2izmm1ao9o931.png]]
