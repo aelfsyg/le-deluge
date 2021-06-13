@@ -44,9 +44,10 @@ https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 - Enragés, Sans-culottes (Dirigists)
 
 * Coalition Wars
-The Coalition Wars were a series of seven wars waged by various alliances of great European powers against Revolutionary France. 
+The Coalition Wars were a series of seven wars waged by various alliances of great European powers against Revolutionary France. These wars will be heavily in France's favour, and you might be required to lose several before France meets its defeat.
 
 Le Déluge uses Crises to model the Coalition Wars. The taking of states other than those on France's border is prohibitively expensive, so France is best placed to install puppet governments, or to pressure governments into alliances and the Continental System. Establishing a new liberal order in Europe will require France to succeed in several wars against all of Europe.
+
 
 * Continental System
 The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. Representing this is almost impossible in Vic 2, but Vic 3's market mechanics make the Continental System an easy feature to implement.
@@ -129,15 +130,29 @@ Historically, the failure of countries to enforce the embargo was used by Napole
 - Hydraulic press
 - Air compressor
 
-*** Resources
-- https://en.wikipedia.org/wiki/History_of_road_transport
-- https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
-- https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
-
 ** Culture
 - Scientific Revolution
 - Deism
 - The Social Contract
+  
+*** Literature
+- The History of the Decline and Fall of the Roman Empire
+- Reflections on the Revolution in France
+- The Age of Reason
+- Kubla Khan
+- Delphine
+- Faust
+- Pride and Prejudice
+- Frankenstein
+- Ozymandias
+- The Masque of Anarchy
+- The Book of Mormon
+
+** Resources
+- https://en.wikipedia.org/wiki/History_of_road_transport
+- https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
+- https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
+- https://en.wikipedia.org/wiki/List_of_years_in_literature
 
 * Questions
 Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available.
