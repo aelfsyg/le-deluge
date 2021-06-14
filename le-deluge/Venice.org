@@ -1,3 +1,5 @@
 * Rulers
 Paolo Renier
 Ludovico Manin
+
+* Decisions and events
