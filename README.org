@@ -44,20 +44,29 @@ https://en.wikipedia.org/wiki/List_of_political_groups_in_the_French_Revolution
 - Enragés, Sans-culottes (Dirigists)
 
 * Coalition Wars
-Crises are used to model the Coalition Wars. The taking of states is prohibitively expensive, so France is best placed to install puppet governments. Establishing a new liberal order in Europe will require France to succeed in several wars.
+The Coalition Wars were a series of seven wars waged by various alliances of great European powers against Revolutionary France. These wars will be heavily in France's favour, and you might be required to lose several before France meets its defeat.
+
+Le Déluge uses Crises to model the Coalition Wars. The taking of states other than those on France's border is prohibitively expensive, so France is best placed to install puppet governments, or to pressure governments into alliances and the Continental System. Establishing a new liberal order in Europe will require France to succeed in several wars against all of Europe.
+
 
 * Continental System
-The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. This will be modelled using Vic 3's market mechanics, a welcome addition as this would be hard to model in Vic 2.
+The Continental System was a embargo by almost the entirety of Europe against the United Kingdom. Representing this is almost impossible in Vic 2, but Vic 3's market mechanics make the Continental System an easy feature to implement.
+
+[[./img/Continental_Blockade_(1812).svg]]
+
+Vic 3's variable number of great powers means in a Coalition War the French can make their opponents submit to the French market and embargo the United Kingdom, even large powers, such as Austria and the Russian Empire.
+
+Historically, the failure of countries to enforce the embargo was used by Napoleon as a /casus belli/ for the invasions of the Spanish and Russian Empires, and in Le Déluge countries will be given the opportunity to flout French impositions, but may pay a price for doing so.
 
 * Characters
 ** Leaders
-- [[file:../../../org/roam/20210605144724-louis_xvi_king_of_france.org][Louis XVI, King of France]]
-- [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
-- [[file:../../../org/roam/20210607171523-georges_danton.org][Georges Danton]] 
+- Louis XVI, King of France
+- Louis XVII, King of France
+- Georges Danton
 - Robespierre
 - Lazare Carnot
 - Sieyès
-- [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
+- Napoleon
 - Napoleon II
 - Louis XVIII
 - Charles X
@@ -65,29 +74,29 @@ The Continental System was a embargo by almost the entirety of Europe against th
 
 ** Interest groups
 
-*** Clergy, First Estate
-- [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
+*** First Estate: Clergy
+- Antoine-Éléonor-Léon Leclerc de Juigné
 
-*** Aristocrats, Second Estate
+*** Second Estate: Aristocrats, Armed Forces
+- Charles François Dumouriez
 
-*** Capitalists
-- [[file:../../../org/roam/20210606233111-jean_baptiste_reveillon.org][Jean-Baptiste Réveillon]]
-
-*** Military
-- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
-
-*** Labour unions, Third Estate
-- [[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
-- [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
+*** Third Estate
+**** Industrialists, Petite Bourgeoisie
+- Jean-Baptiste Réveillo
+**** Trade Unions
+- Jean-Paul Marat
+- Maximilien Robespierre
+  
+**** Rural Folk
 
 ** Generals
-- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
-- [[file:../../../org/roam/20210605200546-francois_christophe_de_kellermann.org][François Christophe de Kellermann]]
-- [[file:../../../org/roam/20210606163613-joachim_murat.org][Joachim Murat]]
+- Charles François Dumouriez
+- François Christophe de Kellermann
+- Joachim Murat
 
 ** Admirals
-- [[file:../../../org/roam/20210606163431-charles_henri_hector_d_estaing.org][Charles Henri Hector d'Estaing]]
-- [[file:../../../org/roam/20210606163904-pierre_andre_de_suffren.org][Pierre André de Suffren]]
+- Charles Henri Hector d'Estaing
+- Pierre André de Suffren
 
 * Technology
 
@@ -130,15 +139,29 @@ The Continental System was a embargo by almost the entirety of Europe against th
 - Trésaguet's roads
 - McAdam's roads
 
-*** Resources
-https://en.wikipedia.org/wiki/History_of_road_transport
-https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
-https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
-
 ** Culture
 - Scientific Revolution
 - Deism
 - The Social Contract
+  
+*** Literature
+- The History of the Decline and Fall of the Roman Empire
+- Reflections on the Revolution in France
+- The Age of Reason
+- Kubla Khan
+- Delphine
+- Faust
+- Pride and Prejudice
+- Frankenstein
+- Ozymandias
+- The Masque of Anarchy
+- The Book of Mormon
+
+** Resources
+- https://en.wikipedia.org/wiki/History_of_road_transport
+- https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
+- https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
+- https://en.wikipedia.org/wiki/List_of_years_in_literature
 
 * Economics
 Model the 'putting-out' system.
@@ -166,11 +189,11 @@ Issues and pull requests are very welcome. Even if you are unfamiliar with how t
 Click here → https://discord.gg/9n5tphpKD5
 
 * External references
-https://eu4.paradoxwikis.com/French_Revolution
-https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
-https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
-https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_19th_century_(1801%E2%80%931850)
-https://en.wikipedia.org/wiki/Napoleonic_weaponry_and_warfare
+- https://eu4.paradoxwikis.com/French_Revolution
+- https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
+- https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
+- https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_19th_century_(1801%E2%80%931850)
+- https://en.wikipedia.org/wiki/Napoleonic_weaponry_and_warfare
 
 #+attr_org: :width 600px
 [[./img/2izmm1ao9o931.png]]

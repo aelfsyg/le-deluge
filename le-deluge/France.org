@@ -1,9 +1,82 @@
-* Rulers
-Louis XVI
-
 * Decisions and events
+** Status quo
+
+** Le Déluge
+
+*** The Third Estate
+It doesn't matter how rich one gets, one will always be a member of the Third Estate. The Nobility are the holders of political power. 
+
+Industrialists, intellectuals, petite bourgeoisie, trade unions, and rural folk are all discontent.
+
+*** The Power of the Parlements
+The Parlements are regional courts with the power to block the implementation of legislation in their provinces, the chief amongst the Parlements if the Parlement de Paris. They are dominated by the local nobility and enjoy public support as the present the image of being the only checks on royal power. The country is in dire financial straits, and the parlements will block any attempt at financial reform.
+
+Modifier: Low authority, very inefficient taxation
+
+*** The Sin of Usury
+The coffers are empty, we are unable to pay the interest on our loans, and none will lend to us. France can either look for loans abroad, delay the repayments, or refuse to repay them at all.
+
+Look abroad:
+Delay repayments for a year:
+Absolve ourselves of any responsibility:
+
+*** Les États généraux (The Estates-General)
+France's only hope for financial reform is to call the Estates-General for the first time in 170 years. The First Estate is that of the Clergy, the Second is the Nobility, and the Third contains all other members of French society.
+
+Call the Estates!: this starts the event chain
+The Estates could be the end of us: this voids the event chain, this will be hard to play, but many Déluge events might still take place if a large revolt takes place
+
+**** The Composition of the Estates-General
+We must decide upon the composition of the Estates-General. Traditionally, the Third Estate would receive twice the representation of each of the other Estates, but each Estate would have equal voting power. This time the Third Estate want each representative to have equal voting power, giving them half of all votes.
+
+Stick with tradition: anger the Third Estate, nobles and clergy get a larger say in the end
+Give the Third Estate a larger say: anger the nobility, the Third Estate get a larger say in the end
+
+**** The Reforms
+We can push for reforms.
+
+Insistute a tax on the clergy:
+Raise taxes on the nobles:
+Raise taxes on the bourgeoisie:
+Raise taxes on the peasantry:
+
+** HRE
 Claim the HRE
 
+** Slavery
 Free slaves in the colonies
 Free slaves in all of France
 Free the slaves in Louisiana
+
+* Rulers
+** Louis XVI
+** [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
+** [[file:../../../org/roam/20210607171523-georges_danton.org][Georges Danton]] 
+** Robespierre
+** Lazare Carnot
+** Sieyès
+** [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
+** Napoleon II
+** Louis XVIII
+** Charles X
+** Louis Philippe I
+
+* Interest groups
+** Clergy, First Estate
+- [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
+
+** Aristocrats, Second Estate
+
+** Armed Forces
+- [[file:../../../org/roam/20210605144751-charles_francois_dumouriez.org][Charles François Dumouriez]]
+
+** Third Estate
+
+*** Industrialists, Petite Bourgeoisie
+- [[file:../../../org/roam/20210606233111-jean_baptiste_reveillon.org][Jean-Baptiste Réveillon]]
+
+*** Trade Unions
+- [[file:../../../org/roam/20210603205715-jean_paul_marat.org][Jean-Paul Marat]]
+- [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
+
+*** Rural Folk
