@@ -117,18 +117,27 @@ Historically, the failure of countries to enforce the embargo was used by Napole
 - Non-Euclidean geometry
 
 ** Inventions
-- Metcalf's roads
-- Trésaguet's roads
-- McAdam's roads
 - Steamboat
 - Electrolysis
 - Threshing machine
 - Power loom
 - Sewing machine
 - Telegraph
-- Cotton gin
 - Hydraulic press
 - Air compressor
+
+*** Textiles
+- Cotton gin
+- Flying shuttle
+- Watt steam engine
+- Spinning jenny
+- Water-powered cotton mill
+- Derby Rib
+
+*** Transport
+- Metcalf's roads
+- Trésaguet's roads
+- McAdam's roads
 
 ** Culture
 - Scientific Revolution
@@ -153,6 +162,9 @@ Historically, the failure of countries to enforce the embargo was used by Napole
 - https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
 - https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries
 - https://en.wikipedia.org/wiki/List_of_years_in_literature
+
+* Economics
+Model the 'putting-out' system.
 
 * Questions
 Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available.
@@ -181,6 +193,7 @@ Click here → https://discord.gg/9n5tphpKD5
 - https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
 - https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
 - https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_19th_century_(1801%E2%80%931850)
+- https://en.wikipedia.org/wiki/Napoleonic_weaponry_and_warfare
 
 #+attr_org: :width 600px
 [[./img/2izmm1ao9o931.png]]

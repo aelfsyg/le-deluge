@@ -42,6 +42,12 @@ Raise taxes on the peasantry:
 
 ** HRE
 Claim the HRE
+
+** Slavery
+Free slaves in the colonies
+Free slaves in all of France
+Free the slaves in Louisiana
+
 * Rulers
 ** Louis XVI
 ** [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
@@ -74,4 +80,3 @@ Claim the HRE
 - [[file:../../../org/roam/20210603222658-maximilien_robespierre.org][Maximilien Robespierre]]
 
 *** Rural Folk
-
