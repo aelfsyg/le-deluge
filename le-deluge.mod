@@ -7,7 +7,7 @@ tags = {
 	"Historical"
 }
 name="Le Déluge"
-path="mod/Le-deluge"
+path="mod/le-deluge"
 dependencies = {
   "Think of England"
 }
