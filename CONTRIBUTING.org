@@ -1,0 +1,9 @@
+* Contributing
+
+** If you are unfamiliar with Git
+https://github.com/EducatedAlmost/le-deluge/issues
+
+Go here and create a new issue, detailing the changes you'd like to see.
+
+** If you are familiar with Git
+Make your changes in a fork branch and make a pull request with your changes.
