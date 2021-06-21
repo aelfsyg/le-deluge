@@ -7,3 +7,9 @@ Go here and create a new issue, detailing the changes you'd like to see.
 
 ** If you are familiar with Git
 Make your changes in a fork branch and make a pull request with your changes.
+
+** Structure
+- images :: ~./img~
+- events and decisions :: ~./le-deluge/countries/~
+- general history :: ~./le-deluge/history.org~
+- loading tips :: ~./le-deluge/quotations.org~
