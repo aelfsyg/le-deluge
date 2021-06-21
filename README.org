@@ -166,6 +166,28 @@ Historically, the failure of countries to enforce the embargo was used by Napole
 * Economics
 Model the 'putting-out' system.
 
+* Music
+** Classical
+The 18th century was that of the Classical period.
+  
+- Beethoven
+- Handel
+- Haydn
+- Herschel
+- Mozart
+- Paganini
+- Rossini
+- Schubert
+  
+*** Pieces
+- Mozart's Symphony No. 40
+- Mozart's Symphony No. 25
+- Haydn's Symphony No. 94
+- Haydn's Symphony No. 45
+
+** Romantic
+The 19th century marks the beginning of the Romantic period.
+
 * Questions
 Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available.
 
@@ -187,6 +209,8 @@ Issues and pull requests are very welcome. Even if you are unfamiliar with how t
 
 ** Discord
 Click here → https://discord.gg/9n5tphpKD5
+
+** [[file:CONTRIBUTING.org][CONTRIBUTING.org]]
 
 * External references
 - https://eu4.paradoxwikis.com/French_Revolution
