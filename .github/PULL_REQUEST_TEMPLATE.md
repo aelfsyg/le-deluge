@@ -1,6 +1,6 @@
 ### Pull request details
 
-<Details of the pull request go here.>
+Details of the pull request go here.
 
 #### CLA
 
