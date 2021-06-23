@@ -1,0 +1,3 @@
+#+title: Contributor Licence Agreement
+
+By contributing to this project you irrevocably grant to AlmostEducated the right to do anything and everything with your contribution, including granting AlmostEducated the copyright to your work.
