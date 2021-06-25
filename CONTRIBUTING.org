@@ -1,5 +1,5 @@
 * Contributing
-Contributors agree to the CLA in making contributions to the project.
+Contributors agree to the [[file:cla.org][CLA]] in making contributions to the project.
 
 ** If you are unfamiliar with Git
 https://github.com/EducatedAlmost/le-deluge/issues

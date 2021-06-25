@@ -40,6 +40,16 @@ Raise taxes on the nobles:
 Raise taxes on the bourgeoisie:
 Raise taxes on the peasantry:
 
+*** Later events
+
+**** Direction of the new government
+Louis had to die so we could... what did we want to do again?
+
+- Platonism (intelligentsia, aristocracy, armed forces)
+- Primitivism (rural folk, devout)
+- Voltairism (industrialists, petite bourgeoisie, armed forces)
+- Anarchism (trade unions)
+
 ** HRE
 Claim the HRE
 

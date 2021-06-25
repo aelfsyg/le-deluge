@@ -206,6 +206,9 @@ Peoples do not judge in the same way as courts of law; they do not hand down sen
 — Robespierre 
 #+END_QUOTE
 
+* Later releases
+- 1804 start date, when Napoleon assumes the title of Emperor.
+
 * Get involved
 Issues and pull requests are very welcome. Even if you are unfamiliar with how to edit code, or use GitHub, you can contact me via Discord.
 
