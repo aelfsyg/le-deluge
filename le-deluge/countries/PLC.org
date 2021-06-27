@@ -2,3 +2,24 @@
 Stanisław August Poniatowski
 
 * Decisions and events
+https://en.wikipedia.org/wiki/Territorial_evolution_of_Poland
+
+** Undo the First Partition
+Gain cores on:
+- Royal Prussia
+- Belarus
+- Galicia
+
+#+attr_org: :width 600px
+[[../../img/plc/partitions.png]]
+
+** Podolia
+
+** An end to perpetual peace
+
+** Integrating the Ruthenians
+
+** End the Courlandian turmoil
+https://en.wikipedia.org/wiki/Peter_von_Biron
+Annex Courland
+Must reduce Russian influence in Courland
