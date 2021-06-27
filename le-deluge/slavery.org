@@ -1,0 +1,36 @@
+* As of 1786
+
+** Europe
+Slavery is illegal in all of Europe, except:
+- Ireland
+- Spain
+- Greece
+
+Serfdom illegal in:
+- British Isles
+- Scandinavia
+- Wallachia
+- Moldavia
+- Savoy
+- Baden
+
+** Americas
+In the United States, almost all the states are slave states, except:
+- Vermont
+- Pennsylvania
+- Massachusetts
+- Conneticut
+- Rhode Island
+
+Slavery is illegal in the rest of the Americas.
+
+** Asia
+Slavery abolished in Japan and the Philippines
+
+* During gameplay
+| 1793 | Saint-Domingue abolishes slavery               |
+| 1793 | Canada: Act Against Slavery bans importation   |
+| 1794 | US: Slave Trade Act bans the trading of slaves |
+| 1794 | PLC: Abolishes serfdom                         |
+| 1807 | GB: Abolition of the Slave Trade Act           |
+| 1807 | Prussia: Abolition of serfdom                  |
