@@ -101,6 +101,45 @@ Separatism in Brazil
 **** Russo–Swedish War (1788–1790)
 **** Zulu Kingdom
 * Timeline
+|            |                                                                        |
+| 1788/08/25 | Resignation of Brienne, Installation of Necker                         |
+|            |                                                                        |
+| 1789/06/04 | Death of Louis-Charles, Dauphin                                        |
+| 1789/08/04 | Publication of the Declaration of the Rights of Man and of the Citizen |
+| 1789/06/20 | Tennis Court Oath                                                      |
+| 1789/07/14 | Storming of the Bastille                                               |
+|            |                                                                        |
+| 1790/07/14 | Fête de la Fédération                                                  |
+|            |                                                                        |
+| 1791/02/28 | Day of Daggers                                                         |
+| 1791/04/03 | The Assembly proposes the Panthéon                                     |
+| 1791/04/13 | Publication of the Papal encyclical Charitas                           |
+| 1791/06/14 | The Chapelier Law is passed                                            |
+| 1791/06/20 | Flight to Varennes                                                     |
+| 1791/07/05 | Padua Circular                                                         |
+| 1791/08/21 | Haitian Revolution                                                    |
+| 1791/08/27 | Declaration of Pillnitz                                                |
+|            |                                                                        |
+| 1792/04/20 | War of the First Coalition                                             |
+| 1792/08/10 | Storming of the Tuileries Palace                                       |
+| 1792/09/21 | Republic declared                                                      |
+|            |                                                                        |
+| 1793/01/21 | Execution of Louis XVI                                                 |
+| 1793/10/   |                                                                        |
+|            |                                                                        |
+| 1798/11/29 | War of the Second Coalition                                            |
+|            |                                                                        |
+| 1803/05/18 | War of the Third Coalition                                             |
+|            |                                                                        |
+| 1806/10    | War of the Fourth Coalition                                            |
+|            |                                                                        |
+| 1809/04/10 | War of the Fifth Coalition                                             |
+|            |                                                                        |
+| 1813/03/03 | War of the Sixth Coalition                                             |
+
+** Details
+
+* Old
 
 The [[file:../../../org/roam/20210603202931-parlement_of_paris.org][Parlement of Paris]] refuses to reform the tax system or loan the Crown more money
 [[file:../../../org/roam/20210603203106-jacques_necker.org][Jacques Necker]]
@@ -312,6 +351,3 @@ Abolition of slavery
 #+BEGIN_QUOTE
 The foundations of a popular government in a revolution are virtue and terror; terror without virtue is disastrous; and virtue without terror is powerless. The Government of the Revolution is the despotism of liberty over tyranny. — Robespierre
 #+END_QUOTE
-
-
-
