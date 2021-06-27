@@ -40,24 +40,54 @@ Raise taxes on the nobles:
 Raise taxes on the bourgeoisie:
 Raise taxes on the peasantry:
 
-*** Later events
+*** Declaration of the Rights of Man and of the Citizen
+Nationalise the Church's lands
 
-**** Direction of the new government
+*** Forming a new government
+
+*** The fate of Louis and Marie
+Nobody dies today: big drop to Zeal
+Only Louis dies: hurts relations with all monarchies
+All traitors will hang: big boost to Zeal, Austria -200 relations
+
+*** The Terror
+Big boost to Zeal
+
+*** The Coalition Wars
+
+*** Our Next Step
 Louis had to die so we could... what did we want to do again?
 
+- Traditionalism
+- Constitutionalism (Feuillants)
 - Platonism (intelligentsia, aristocracy, armed forces)
-- Primitivism (rural folk, devout)
+- Bonapartism (armed forces, trade unions)
 - Voltairism (industrialists, petite bourgeoisie, armed forces)
-- Anarchism (trade unions)
+- Montagnism
+- Enragism
+- Egauxism
+- Cynicism (trade unions)
+- Primitivism (rural folk, devout)
+
+*** The Cult of Reason
+
+*** 
+
+** Undoing the Treaty of Paris
+Reverse the impositions of the Seven Years War.
+
+- Canada
+- Caribbean
 
 ** HRE
-Claim the HRE
+Claim the HRE: get a CB to take HRE states, establish the Confederation of the Rhine
+Steal the HRE: requires that the HRE exists
+Recreate the HRE: requires that the HRE doesn't exist
 
 ** Slavery
 Free slaves in the colonies
 Free slaves in all of France
 Free the slaves in Louisiana
-
 * Rulers
 ** Louis XVI
 ** [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]

@@ -191,7 +191,9 @@ The 18th century was that of the Classical period.
 The 19th century marks the beginning of the Romantic period.
 
 * Questions
-Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available.
+Should all the countries use the same tags that they will use in the rest of the game? Some decisions might need to be hidden by adding a date for them to become available. Ideally, you should be able to play a normal game of Victoria after fifty years.
+
+A /Zeal/ mechanic allows us to model some of the more nonsensical things that happened during the Revolution, such as the Terror and the execution of Marie Antoinette. Zeal reduces the stability of political compromise.
 
 * Quotations
 #+BEGIN_QUOTE
