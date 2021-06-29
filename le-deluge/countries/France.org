@@ -59,6 +59,22 @@ Big boost to Zeal
 
 *** The Coalition Wars
 
+**** Grand Armée
+It is easy to think that the Grand Armée is the French Army, but often French make up only a plurality of the soldiers.
+
+In rough order, there are also many troops from:
+- German states
+- Poland
+- Spain
+- Italy
+
+**** Napoleonic tactics
+Speed
+La Maraude
+
+**** Invasion of Russia (Campagne de Russie)
+France should feel that they must conquer Russia. Napoleon invaded Russia to get them to comply with the Treaties of Tilsit, and join the Continental System.
+
 *** Our Next Step
 Louis had to die so we could... what did we want to do again?
 
@@ -92,18 +108,19 @@ Recreate the HRE: requires that the HRE doesn't exist
 Free slaves in the colonies
 Free slaves in all of France
 Free the slaves in Louisiana
-* Rulers
-** Louis XVI
-** [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
-** [[file:../../../org/roam/20210607171523-georges_danton.org][Georges Danton]] 
-** Robespierre
-** Lazare Carnot
-** Sieyès
-** [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
-** Napoleon II
-** Louis XVIII
-** Charles X
-** Louis Philippe I
+* Characters
+** Rulers
+*** Louis XVI
+*** [[file:../../../org/roam/20210605194430-louis_xvii_king_of_france.org][Louis XVII, King of France]]
+*** [[file:../../../org/roam/20210607171523-georges_danton.org][Georges Danton]] 
+*** Robespierre
+*** Lazare Carnot
+*** Sieyès
+*** [[file:../../../org/roam/20201220095841-napoleon.org][Napoleon]]
+*** Napoleon II
+*** Louis XVIII
+*** Charles X
+*** Louis Philippe I
 
 * Interest groups
 ** Clergy, First Estate
