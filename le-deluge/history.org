@@ -102,8 +102,12 @@ Separatism in Brazil
 **** Zulu Kingdom
 * Timeline
 |            |                                                                        |
+| 1788/08/08 | Parlement of Paris refuses to reform the tax system                    |
+| 1788/08/16 | The treasury suspends payments on the debts of the government          |
 | 1788/08/25 | Resignation of Brienne, Installation of Necker                         |
 |            |                                                                        |
+| 1789/04/27 | Réveillon riots                                                        |
+| 1789/05/05 | Les Etats-Generaux                                                     |
 | 1789/06/04 | Death of Louis-Charles, Dauphin                                        |
 | 1789/08/04 | Publication of the Declaration of the Rights of Man and of the Citizen |
 | 1789/06/20 | Tennis Court Oath                                                      |
@@ -117,7 +121,7 @@ Separatism in Brazil
 | 1791/06/14 | The Chapelier Law is passed                                            |
 | 1791/06/20 | Flight to Varennes                                                     |
 | 1791/07/05 | Padua Circular                                                         |
-| 1791/08/21 | Haitian Revolution                                                    |
+| 1791/08/21 | Haitian Revolution                                                     |
 | 1791/08/27 | Declaration of Pillnitz                                                |
 |            |                                                                        |
 | 1792/04/20 | War of the First Coalition                                             |
@@ -125,7 +129,10 @@ Separatism in Brazil
 | 1792/09/21 | Republic declared                                                      |
 |            |                                                                        |
 | 1793/01/21 | Execution of Louis XVI                                                 |
-| 1793/10/   |                                                                        |
+| 1793/04/06 | Revolutionary Tribunal                                                 |
+| 1793/10/16 | Execution of Marie-Antoinette                                          |
+| 1793/11/07 | Execution of Philippe Égalité                                          |
+| 1793/11/10 | Notre-Dame rededicated as a Temple of Reason                           |
 |            |                                                                        |
 | 1798/11/29 | War of the Second Coalition                                            |
 |            |                                                                        |
@@ -136,6 +143,7 @@ Separatism in Brazil
 | 1809/04/10 | War of the Fifth Coalition                                             |
 |            |                                                                        |
 | 1813/03/03 | War of the Sixth Coalition                                             |
+|            |                                                                        |
 
 ** Details
 
