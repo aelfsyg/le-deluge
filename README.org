@@ -220,6 +220,13 @@ Click here → https://discord.gg/9n5tphpKD5
 ** [[file:CONTRIBUTING.org][CONTRIBUTING.org]]
 
 * External references
+** Books
+- The Age of Revolution: 1798–1848, Eric Hobsbawm
+- The French Revolution, Christopher Hibbert
+- The First Total War, David A Bell
+- Revolutions, Mike Duncan
+
+** Websites
 - https://eu4.paradoxwikis.com/French_Revolution
 - https://en.wikipedia.org/wiki/Timeline_of_the_French_Revolution
 - https://en.wikipedia.org/wiki/List_of_state_leaders_in_the_18th_century
