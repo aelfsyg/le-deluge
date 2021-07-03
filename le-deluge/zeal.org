@@ -14,5 +14,9 @@ Relations with monarchies – –
 Relations with republics +
 Relations with revolutionary republics + +
 
+* Name
+Zeal
+Fervour
+
 * References
 https://eu4.paradoxwikis.com/Revolution#Revolutionary_zeal
