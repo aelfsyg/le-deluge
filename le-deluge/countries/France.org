@@ -2,8 +2,13 @@
 Absolute Monarchy
 27.6 M
 
+* Pops
+Nobility collect huge taxes from the lower classes.
+
 * Decisions and events
 ** Status quo
+Flour War
+Pacte de Famine
 
 ** Le Déluge
 
@@ -15,7 +20,24 @@ Industrialists, intellectuals, petite bourgeoisie, trade unions, and rural folk 
 *** The Power of the Parlements
 The Parlements are regional courts with the power to block the implementation of legislation in their provinces, the chief amongst the Parlements if the Parlement de Paris. They are dominated by the local nobility and enjoy public support as the present the image of being the only checks on royal power. The country is in dire financial straits, and the parlements will block any attempt at financial reform.
 
+The Parelements are popular with the Third Estate, they are popularly viewed as bulwarks against monarchial despotism.
+
 Modifier: Low authority, very inefficient taxation
+
+*** Calonne's Reforms
+- land tax
+- conversion of the corvée into a money tax
+- abolition of internal custom barriers
+- provincial assemblies
+
+One must choose whether to stand by Calonne or not? If we don't, he will publish publicly.
+
+**** Assembly of Notables
+de Brienne
+
+*** Eden Treaty
+
+*** Day of the Tiles
 
 *** The Sin of Usury
 The coffers are empty, we are unable to pay the interest on our loans, and none will lend to us. France can either look for loans abroad, delay the repayments, or refuse to repay them at all.
@@ -43,6 +65,11 @@ Insistute a tax on the clergy:
 Raise taxes on the nobles:
 Raise taxes on the bourgeoisie:
 Raise taxes on the peasantry:
+
+**** Unholy Alliance
+By allying ourselves with the Third Estate, we can bring the Nobility to order, supress their noble rights, and force uniformity on France.
+
+***** Second Flour War
 
 *** Declaration of the Rights of Man and of the Citizen
 Nationalise the Church's lands
@@ -89,10 +116,10 @@ Louis had to die so we could... what did we want to do again?
 - Cynicism (trade unions)
 - Primitivism (rural folk, devout)
 
+**** Proclaim the Emperor
+All sister republics switch to monarchies in personal union with the Empire of France
+
 *** The Cult of Reason
-
-*** 
-
 ** Undoing the Treaty of Paris
 Reverse the impositions of the Seven Years War.
 
@@ -121,6 +148,12 @@ Free the slaves in Louisiana
 *** Louis XVIII
 *** Charles X
 *** Louis Philippe I
+** Others
+Jacques Necker
+Calonne
+de Brienne
+Vergennes
+Adrien Duport
 
 * Interest groups
 ** Clergy, First Estate
