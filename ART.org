@@ -1,0 +1,4 @@
+* Logo
+
+#+attr_org: :width 600px
+[[./img/fleur-de-lis-vec.png]]
