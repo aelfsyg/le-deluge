@@ -1,0 +1,16 @@
+* 0.1
+- World is accurate as of 1786, and nothing else.
+
+* 0.5
+- New casus belli types
+- Beginning of the crisis
+
+* 1.0
+- Game is playable as France
+
+* 2.0
+- A fully-featured France game.
+- Game is playable as other major powers.
+
+* 3.0
+- Flavour for all major nations.
