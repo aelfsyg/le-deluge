@@ -75,6 +75,7 @@ By allying ourselves with the Third Estate, we can bring the Nobility to order, 
 Nationalise the Church's lands
 
 *** Forming a new government
+Coup d'état by Louis Philippe
 
 *** The fate of Louis and Marie
 Nobody dies today: big drop to Zeal
@@ -84,7 +85,12 @@ All traitors will hang: big boost to Zeal, Austria -200 relations
 *** The Terror
 Big boost to Zeal
 
+*** Armées des Émigrés
+
 *** The Coalition Wars
+
+**** The Murder of Dillon
+Dillon was murdered by his own troops at the Battle of Marquain
 
 **** Grand Armée
 It is easy to think that the Grand Armée is the French Army, but often French make up only a plurality of the soldiers.
@@ -148,13 +154,20 @@ Free the slaves in Louisiana
 *** Louis XVIII
 *** Charles X
 *** Louis Philippe I
-** Others
-Jacques Necker
-Calonne
-de Brienne
-Vergennes
-Adrien Duport
+** Generals
+- Charles François Dumouriez
+- Jean-Baptiste Donatien de Vimeur, comte de Rochambeau
+- Gilbert du Motier, Marquis de Lafayette
+- Nicolas Luckner
+- Armand Louis de Gontaut (Biron)
+- Théobald Dillon
 
+** Others
+- Jacques Necker
+- Calonne
+- de Brienne
+- Vergennes
+- Adrien Duport
 * Interest groups
 ** Clergy, First Estate
 - [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
