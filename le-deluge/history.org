@@ -100,8 +100,15 @@ Separatism in Brazil
 *** Other
 **** Russo–Swedish War (1788–1790)
 **** Zulu Kingdom
+
 * Timeline
 |            |                                                                        |
+| 1786/08/20 | Calonne presents his plan to the King                                  |
+|            |                                                                        |
+| 1787/06/28 | Princess Wilhemina captured, Batavian Revolution                       |
+| 1787/09/13 | Prussian invasion of Holland                                           |
+|            |                                                                        |
+| 1788/06/07 | Day of the Tiles                                                       |
 | 1788/08/08 | Parlement of Paris refuses to reform the tax system                    |
 | 1788/08/16 | The treasury suspends payments on the debts of the government          |
 | 1788/08/25 | Resignation of Brienne, Installation of Necker                         |
@@ -146,6 +153,30 @@ Separatism in Brazil
 |            |                                                                        |
 
 ** Details
+
+
+* Current wars
+** Cherokee–American wars
+https://en.wikipedia.org/wiki/Cherokee%E2%80%93American_wars
+Starting in 1786, the leaders of the State of Franklin and the Cumberland District began secret negotiations with Esteban Rodríguez Miró, governor of Spanish Louisiana, to deliver their regions to the jurisdiction of the Spanish Empire.
+
+** Fakir–Sannyasi rebellion
+
+** Moamoria rebellion
+
+** Mysorean invasion of Malabar
+
+** Russo–Circassion War
+
+** Dagohoy rebellion
+
+** Northwest Indian War
+
+** Unification of Hawaii
+https://en.wikipedia.org/wiki/Unification_of_Hawaii
+
+** Burmese–Siamese War (1785–1786)
+https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1785%E2%80%931786)
 
 * Old
 

@@ -2,8 +2,13 @@
 Absolute Monarchy
 27.6 M
 
+* Pops
+Nobility collect huge taxes from the lower classes.
+
 * Decisions and events
 ** Status quo
+Flour War
+Pacte de Famine
 
 ** Le Déluge
 
@@ -15,7 +20,24 @@ Industrialists, intellectuals, petite bourgeoisie, trade unions, and rural folk 
 *** The Power of the Parlements
 The Parlements are regional courts with the power to block the implementation of legislation in their provinces, the chief amongst the Parlements if the Parlement de Paris. They are dominated by the local nobility and enjoy public support as the present the image of being the only checks on royal power. The country is in dire financial straits, and the parlements will block any attempt at financial reform.
 
+The Parelements are popular with the Third Estate, they are popularly viewed as bulwarks against monarchial despotism.
+
 Modifier: Low authority, very inefficient taxation
+
+*** Calonne's Reforms
+- land tax
+- conversion of the corvée into a money tax
+- abolition of internal custom barriers
+- provincial assemblies
+
+One must choose whether to stand by Calonne or not? If we don't, he will publish publicly.
+
+**** Assembly of Notables
+de Brienne
+
+*** Eden Treaty
+
+*** Day of the Tiles
 
 *** The Sin of Usury
 The coffers are empty, we are unable to pay the interest on our loans, and none will lend to us. France can either look for loans abroad, delay the repayments, or refuse to repay them at all.
@@ -44,10 +66,16 @@ Raise taxes on the nobles:
 Raise taxes on the bourgeoisie:
 Raise taxes on the peasantry:
 
+**** Unholy Alliance
+By allying ourselves with the Third Estate, we can bring the Nobility to order, supress their noble rights, and force uniformity on France.
+
+***** Second Flour War
+
 *** Declaration of the Rights of Man and of the Citizen
 Nationalise the Church's lands
 
 *** Forming a new government
+Coup d'état by Louis Philippe
 
 *** The fate of Louis and Marie
 Nobody dies today: big drop to Zeal
@@ -57,7 +85,12 @@ All traitors will hang: big boost to Zeal, Austria -200 relations
 *** The Terror
 Big boost to Zeal
 
+*** Armées des Émigrés
+
 *** The Coalition Wars
+
+**** The Murder of Dillon
+Dillon was murdered by his own troops at the Battle of Marquain
 
 **** Grand Armée
 It is easy to think that the Grand Armée is the French Army, but often French make up only a plurality of the soldiers.
@@ -89,10 +122,10 @@ Louis had to die so we could... what did we want to do again?
 - Cynicism (trade unions)
 - Primitivism (rural folk, devout)
 
+**** Proclaim the Emperor
+All sister republics switch to monarchies in personal union with the Empire of France
+
 *** The Cult of Reason
-
-*** 
-
 ** Undoing the Treaty of Paris
 Reverse the impositions of the Seven Years War.
 
@@ -121,7 +154,20 @@ Free the slaves in Louisiana
 *** Louis XVIII
 *** Charles X
 *** Louis Philippe I
+** Generals
+- Charles François Dumouriez
+- Jean-Baptiste Donatien de Vimeur, comte de Rochambeau
+- Gilbert du Motier, Marquis de Lafayette
+- Nicolas Luckner
+- Armand Louis de Gontaut (Biron)
+- Théobald Dillon
 
+** Others
+- Jacques Necker
+- Calonne
+- de Brienne
+- Vergennes
+- Adrien Duport
 * Interest groups
 ** Clergy, First Estate
 - [[file:../../../org/roam/20210605144407-antoine_eleonor_leon_leclerc_de_juigne.org][Antoine-Éléonor-Léon Leclerc de Juigné]]
